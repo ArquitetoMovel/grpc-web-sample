@@ -1,0 +1,3 @@
+[submodule "GrpcWebClient"]
+	path = GrpcWebClient
+	url = https://github.com/ArquitetoMovel/grpc-web-sample.git
